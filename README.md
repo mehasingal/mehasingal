@@ -1,7 +1,8 @@
 <h1 align="left">🌱 Meha Singal</h1>
 <h3 align="left">Geospatial Data Science Student at the University of Washington</h3>
 
-👨‍💻 I’m currently working on [UW Alert iOS App](https://github.com/mehasingal/uw-alert-app)
+👨‍💻 I’m currently working on [UW Alert iOS App](https://github.com/mehasingal/uw-alert-app) and [Terra Antiqua Startup App]([
+](https://github.com/tappable/terra-antiqua)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
