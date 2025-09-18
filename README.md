@@ -2,8 +2,11 @@
 <h3 align="left">Geospatial Data Science Student at the University of Washington</h3>
 
 👨‍💻 I’m currently working on:
+
 [UW Alert iOS App](https://github.com/mehasingal/uw-alert-app)
+
 [Terra Antiqua Startup App](https://terra-antiqua.ideaforge.work/)
+
 [SilverShield App](https://silver-shield.ideaforge.work/)
 
 <h3 align="left">Connect with me:</h3>
