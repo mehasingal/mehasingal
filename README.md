@@ -1,5 +1,5 @@
 <h1 align="left">🌱 Meha Singal</h1>
-<h3 align="left">Geospatial Data Science Student at the University of Washington</h3>
+<h3 align="left">Software Developer Intern @ Idea Forge | UW Data Science Grad</h3>
 
 👨‍💻 I’m currently working on:
 
