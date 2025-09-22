@@ -5,9 +5,15 @@
 
 [UW Alert iOS App](https://github.com/mehasingal/uw-alert-app)
 
-[Terra Antiqua Startup App](https://terra-antiqua.ideaforge.work/)
+[Cybersecurity AI Agent](https://github.com/mehasingal/scam-watchdog-agent)
 
-[SilverShield App](https://silver-shield.ideaforge.work/)
+Published Applications:
+
+[Terra Antiqua](https://terra-antiqua.ideaforge.work/)
+
+[SilverShield](https://silver-shield.ideaforge.work/)
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
